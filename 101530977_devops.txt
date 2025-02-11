@@ -1,0 +1,3 @@
+This group project relates to the COMP 2156 curriculum, DevOps for System
+Administration. COMP 2156 is an instructional course going through the procedures,
+protocols, and best practices for a DevOps engineer career. 
