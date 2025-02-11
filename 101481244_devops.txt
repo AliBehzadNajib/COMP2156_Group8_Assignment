@@ -1,1 +1,2 @@
 COMP 3104 DevOps covers automation, CI/CD, and cloud computing.
+DevOps includes tools such as Docker, Kubernetes, and Jenkins.
