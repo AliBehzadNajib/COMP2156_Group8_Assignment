@@ -6,3 +6,6 @@ The course aims to teach students how to effectively carry out the roles of a
 System or Network engineer with DevOps processes. Learners will also be able to
 demonstrate strategies and skills of using DevOps tools, Cloud database technologies
 and techniques for software/network applications.
+
+For the first half of the semester, we covered CI/CD tools and Web Server and Web Hosting, as
+well as an introduction to build tools.
