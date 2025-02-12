@@ -1,6 +1,13 @@
-George Brown College is a public, fully accredited college of applied arts and technology with three campuses
-in downtown Toronto. Like many other colleges in Ontario, George Brown College was chartered in 1966 by the 
-government of Ontario and opened the next year.
+George Brown College is a public, fully accredited college of applied arts and technology with 
+three campuses in downtown Toronto. Like many other colleges in Ontario, George Brown College was chartered
+in 1966 by the government of Ontario and opened the next year.
 
 George Brown has three campuses located in Downtown Toronto. For our purposes, the
-School of Computer Technology is located in the Casa Loma Campus.
+School of Computer Technology is located in the Casa Loma Campus. Other programs offered within the
+Casa Loma campus are in the School of Fashion & Jewellery and the School of Media and Performing
+Arts.
+
+The other two campuses, St. James and Waterfront, offer other varied programs and specialities. 
+The St. James campus is home to the Centre for Business and the Centre for Hospitality & Culinary
+Arts, for instance. The Waterfront campus is home to the School of Dental Health, Health Services 
+Management, and the School of Health & Wellness.
