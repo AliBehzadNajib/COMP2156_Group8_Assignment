@@ -9,3 +9,6 @@ and techniques for software/network applications.
 
 For the first half of the semester, we covered CI/CD tools and Web Server and Web Hosting, as
 well as an introduction to build tools.
+
+Following the mid-term we will be working with cloud infrastructure, DevOps automation, and 
+going into the market demand for a DevOps engineer.
