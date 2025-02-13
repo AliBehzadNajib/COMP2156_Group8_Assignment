@@ -4,3 +4,6 @@ between development and operations.
 
 It also contributes to greater efficiency in the development process especially as it relates
 to continuous testing, deployment, and monitoring.
+
+By maintaining this commitment to efficiency, DevOps engineers can help teams deliver software
+updates more rapidly and reliably, reducing time to market.
