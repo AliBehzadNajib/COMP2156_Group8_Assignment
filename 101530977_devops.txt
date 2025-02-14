@@ -1,0 +1,14 @@
+This group project relates to the COMP 2156 curriculum, DevOps for System
+Administration. COMP 2156 is an instructional course going through the procedures,
+protocols, and best practices for a DevOps engineer career. 
+
+The course aims to teach students how to effectively carry out the roles of a 
+System or Network engineer with DevOps processes. Learners will also be able to
+demonstrate strategies and skills of using DevOps tools, Cloud database technologies
+and techniques for software/network applications.
+
+For the first half of the semester, we covered CI/CD tools and Web Server and Web Hosting, as
+well as an introduction to build tools.
+
+Following the mid-term we will be working with cloud infrastructure, DevOps automation, and 
+going into the market demand for a DevOps engineer.
