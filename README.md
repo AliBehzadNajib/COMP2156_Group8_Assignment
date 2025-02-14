@@ -5,7 +5,7 @@
 - **Member:** Fjoralba Velcani (101481244) - [GitHub](https://github.com/Fjoralba24)
 - **Member:** Jonathan Mesina (101530977) - [GitHub](https://github.com/jmesina38)
 - **Member:** Mishal Tariq (101509738) - [GitHub](https://github.com/tariqmis)
-
+- **Member:** Mohsin Liaqat (101495342) - [GitHub](https://github.com/Mohsin259/skills-introduction-to-github)
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on collaborative
 Git workflows, branching strategies, and CI/CD integration.
