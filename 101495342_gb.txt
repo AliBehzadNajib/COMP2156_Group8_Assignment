@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 College has Intership oppurtunities for students so they can gain real world experiance
+=======
+George Brown is a well known public college and it has one of the best technological department
+>>>>>>> 101471290_AnuragYadav
 College has Intership oppurtunities for students so they can gain real world experiance
 GBC also offers strong networking opportunities through industry partnerships and co-op program.
