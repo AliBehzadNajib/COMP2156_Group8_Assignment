@@ -1,10 +1,11 @@
-1.DevOps plays a critical role in todays technolegy, as it helps improve collaboration, automation, and efficiency.
+Devops is a combinations of "developent: and "operations". It's a set of tools to help programmers collaborate on
+making software and IT operations.
 
-2.Using tools like GitHub allows user to communicate with other on projects and help each other.
+1.Using tools like GitHub allows user to communicate with other on projects and help each other.
 
-3. Allows faster to deliver new features and updates to others.
+2. Allows faster to deliver new features and updates to others.
 
-4. Provides Real-time into applications to help identify issues.
+3. Provides Real-time into applications to help identify issues.
 
-5. Automated testing software finds bugs faster.
+4. Automated testing software finds bugs faster.
 
