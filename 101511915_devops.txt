@@ -1,11 +1,8 @@
-Learning Devops is crucial to learn in almost anything porgramming related. The reason why is that since almost anything computer related. The courses offers 
-a few projects to help with students with hand-on experience on how to use Devops tools that are important to learn in the real world
+Learning DevOps is crucial for almost anything related to programming. The reason is that DevOps is widely used in various computer-related fields.
+The course COMP 2156 offers a few projects to help students gain hands-on experience with DevOps tools that are important in the real world.
 
-1. It provides hands-on experience with popular Devops tools like Git, Jenkins, Docker.
+1. It provides hands-on experience with popular DevOps tools like Git, Jenkins, and Docker.
 
-2. Students will also learn how to create and manage CI/CD piplines using Jenkins.
+2. Students will also learn how to create and manage CI/CD pipelines using Jenkins.
 
-3. Students will also develope skills on useing cloud focused platforms like AWS or Azure.
-
-
-
+3. Students will gain experience in deploying and managing applications in cloud environments like AWS or Azure.

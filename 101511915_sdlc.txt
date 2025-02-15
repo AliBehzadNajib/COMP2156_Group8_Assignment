@@ -1,11 +1,9 @@
-Devops is a combinations of "developent: and "operations". It's a set of tools to help programmers collaborate on
-making software and IT operations.
+DevOps is a combination of "development" and "operations." It's a set of tools that help programmers collaborate on software development and IT operations.
 
-1.Using tools like GitHub allows user to communicate with other on projects and help each other.
+1. Using tools like GitHub allows users to communicate with others on projects and help each other.
 
-2. Allows faster to deliver new features and updates to others.
+2. It allows faster delivery of new features and updates.
 
-3. Provides Real-time into applications to help identify issues.
+3. It provides real-time insights into applications to help identify issues.
 
 4. Automated testing software finds bugs faster.
-
