@@ -1,0 +1,3 @@
+COMP 3104 is a 15-week course.
+The prerequisite for this is COMP 3044, which is Linux Essentials.
+
