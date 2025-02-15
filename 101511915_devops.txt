@@ -1,11 +1,11 @@
-1. The COMP 3104 at George Brown is a Devops course, desgined to teach students the knowledge and skills 
-needed in integrading development and operations to enhance software delivery and system reliability.
+Learning Devops is crucial to learn in almost anything porgramming related. The reason why is that since almost anything computer related. The courses offers 
+a few projects to help with students with hand-on experience on how to use Devops tools that are important to learn in the real world
 
-2. It provides hands-on experience with popular Devops tools like Git, Jenkins, Docker.
+1. It provides hands-on experience with popular Devops tools like Git, Jenkins, Docker.
 
-3. Students will also learn how to create and manage CI/CD piplines using Jenkins.
+2. Students will also learn how to create and manage CI/CD piplines using Jenkins.
 
-4. Students will also develope skills on useing cloud focused platforms like AWS or Azure.
+3. Students will also develope skills on useing cloud focused platforms like AWS or Azure.
 
 
 
