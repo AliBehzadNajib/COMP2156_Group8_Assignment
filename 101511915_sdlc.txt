@@ -1,4 +1,5 @@
 DevOps is a combination of "development" and "operations." It's a set of tools that help programmers collaborate on software development and IT operations.
+Devops is used in everyday coding software in almost any application, to where it is standered to learn all sorts of devops tools.
 
 1. Using tools like GitHub allows users to communicate with others on projects and help each other.
 
