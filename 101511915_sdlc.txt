@@ -1,0 +1,10 @@
+1.DevOps plays a critical role in todays technolegy, as it helps improve collaboration, automation, and efficiency.
+
+2.Using tools like GitHub allows user to communicate with other on projects and help each other.
+
+3. Allows faster to deliver new features and updates to others.
+
+4. Provides Real-time into applications to help identify issues.
+
+5. Automated testing software finds bugs faster.
+
